@@ -9,8 +9,7 @@ class Even5
         
         Scanner scan=new Scanner(System.in);
         int s1=scan.nextInt();
-        //s1=8
-        //i=0 
+        //i=0
 
         for(int i=0;i<=s1;i++)
         {
